@@ -2,8 +2,8 @@
 - 👀 I’m interested in Artificial intelligence and machine learning 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me chetangupta9764@gmail.com
-- 😄 Pronouns: Mr. chetan 
+- 📫 How to reach me www.linkedin.com/in/chetan-gupta-1608a8344
+- 😄 Pronouns: Mr. chetan gupta
 
 
 <!---

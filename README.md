@@ -1,10 +1,10 @@
 <h1 align="center">
   Hi, I'm <span style="color:#36BCF7;">Chetan Gupta</span>
-  <img src="https://media.giphy.com/media/hvRJCLzz8CztK/giphy.gif" width="30"/>
+  <img src="https://media.giphy.com/media/hvRJCLzz8CztK/giphy.gif" width="28"/>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=36BCF7&center=true&vCenter=true&width=520&lines=Machine+Learning+Engineer+in+Progress;AI+%26+ML+%7C+Backend+Engineering;Building+Scalable+Intelligent+Systems;Learning+ML+from+First+Principles" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Product-Oriented+Software+Engineer;Android+%7C+Web+%7C+Backend+%7C+Machine+Learning;Building+End-to-End+Real-World+Products;Code+%2B+Data+%2B+Systems" />
 </p>
 
 <p align="center">
@@ -18,64 +18,50 @@
 
 ---
 
-## ✨ About Me
+## 🚀 Who Am I?
 
-I am a **B.Tech CSE (AI & ML)** student focused on **engineering-grade Machine Learning systems**.  
-My work philosophy is simple: *understand the math → build the system → optimize for scale*.
+I am a **product-focused software engineer** with hands-on experience across  
+**Android, Web, Backend, Data Structures, and Machine Learning**.
 
-I actively work on:
-- 🔹 Classical Machine Learning & model internals  
-- 🔹 Backend-driven ML pipelines  
-- 🔹 Writing clean, production-ready code  
-
----
-
-## 🧠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,kotlin,django,firebase,mysql,git,github" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas" />
-  <img src="https://img.shields.io/badge/scikit--learn-Professional-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-</p>
+Instead of learning skills in isolation, I focus on:
+- 🔹 Combining **DSA + Backend + ML + Frontend**
+- 🔹 Solving **real-world problems**
+- 🔹 Building **scalable, end-to-end products**
 
 ---
 
-## 📊 GitHub Analytics
+## 🧠 Skill Stack (End-to-End)
 
-<p align="center">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=Chetan2025&theme=tokyonight&hide_border=true&show_icons=true" />
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan2025&layout=compact&theme=tokyonight&hide_border=true" />
+### 📱 Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
 </p>
 
-<p align="center">
-  <img width="94%" src="https://nirzak-streak-stats.vercel.app/?user=Chetan2025&theme=tokyonight&hide_border=true" />
+### 🌐 Web & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=django,html,css,js,mysql,firebase" />
+</p>
+
+### 🤖 Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/NumPy-Data-blue?style=flat-square&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Pandas-Analysis-purple?style=flat-square&logo=pandas"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-Modeling-orange?style=flat-square&logo=scikit-learn"/>
+</p>
+
+### 🧮 Data Structures & Problem Solving
+<p>
+  <img src="https://img.shields.io/badge/DSA-Problem_Solving-success?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Algorithms-Logic_Design-blue?style=flat-square"/>
 </p>
 
 ---
 
-## 🚧 Currently Engineering
+## 🏗️ How I Build Products
 
-- ⚙️ End-to-end ML pipelines  
-- 📐 ML mathematics & optimization  
-- 🧪 From-scratch ML implementations  
-- 🌐 Backend APIs for ML models  
-
----
-
-## 🧭 Vision
-
-> *"Great ML systems are built, not trained."*
-
-My long-term goal is to work on **impactful AI systems** where engineering discipline matters as much as algorithms.
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Chetan2025&icon=5&color=6" />
-</p>
+```text
+Idea → UI (Android/Web) → Backend APIs → Database → ML Intelligence → Scale
 
 <!---
 Chetan2025/Chetan2025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

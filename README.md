@@ -63,7 +63,4 @@ Instead of learning skills in isolation, I focus on:
 ```text
 Idea → UI (Android/Web) → Backend APIs → Database → ML Intelligence → Scale
 
-<!---
-Chetan2025/Chetan2025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+

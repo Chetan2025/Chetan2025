@@ -1,64 +1,70 @@
 # 👋 Hi, I'm Chetan Gupta  
+### Aspiring Machine Learning Engineer | Backend & App Developer
 
-🎓 B.Tech CSE (AI & ML) Student  
-🤖 Aspiring Machine Learning Engineer | Backend & App Developer  
-📊 Passionate about Data, Algorithms & Real-World AI  
-
----
-
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-gupta-1608a8344)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chetan.gupta.aiml@ghrce.raisoni.net)
+<p align="left">
+<a href="https://www.linkedin.com/in/chetan-gupta-1608a8344"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+<a href="mailto:chetan.gupta.aiml@ghrce.raisoni.net"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-## 💻 Tech Stack  
+## 🚀 About Me
+I am a **B.Tech CSE (AI & ML)** student passionate about bridging the gap between raw data and actionable insights. I specialize in building robust backend systems and developing intelligent models to solve real-world problems.
 
-### 🚀 Programming Languages  
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### 🧠 Machine Learning & Data  
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-### 🌐 Backend & Database  
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🛠 Tools  
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+- 🔭 **Currently working on:** Real-world ML projects and Django REST Framework.
+- 🌱 **Learning:** Deepening my knowledge in DSA and Advanced Neural Networks.
+- ⚡ **Goal:** Building scalable AI solutions that impact lives.
+- 💬 **Ask me about:** Python, Machine Learning, and Backend Development.
 
 ---
 
-## 📊 GitHub Stats  
+## 🛠 Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chetan2025&theme=dark&show_icons=true&hide_border=false)  
+### 🧠 Machine Learning & Data Science
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff?style=flat&logo=Matplotlib&logoColor=black" />
+</p>
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Chetan2025&theme=dark&hide_border=false)  
+### 🌐 Backend & Mobile Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan2025&layout=compact&theme=dark&hide_border=false)
+### ⚙️ Languages & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
-## 🚀 What I'm Currently Working On  
-- 📌 Machine Learning fundamentals (from scratch)  
-- 📌 Real-world ML projects  
-- 📌 Backend APIs with Django  
-- 📌 Improving problem-solving & DSA  
+## 📊 GitHub Analytics
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Chetan2025&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan2025&layout=compact&theme=tokyonight&hide_border=false" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=Chetan2025&theme=tokyonight&hide_border=false" />
+</p>
 
 ---
 
-## 👀 Profile Views  
-[![](https://visitcount.itsvg.in/api?id=Chetan2025&icon=0&color=0)](https://visitcount.itsvg.in)
+## 📈 Activity & Stats
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Chetan2025&icon=6&color=4" alt="Profile Views" />
+</p>
 
----
-
-⭐ *If you like my work, consider starring my repositories!*
+⭐️ *From [Chetan2025](https://github.com/Chetan2025)*
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

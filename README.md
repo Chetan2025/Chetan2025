@@ -20,7 +20,7 @@
 
 ## 🚀 Who Am I?
 
-I am a **product-focused software engineer** with hands-on experience across  
+I am a **software engineer** with hands-on experience across  
 **Android, Web, Backend, Data Structures, and Machine Learning**.
 
 Instead of learning skills in isolation, I focus on:

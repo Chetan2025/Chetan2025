@@ -20,8 +20,11 @@
 
 ## 🚀 Who Am I?
 
-I am a **software engineer** with hands-on experience across  
-**Android, Web, Backend, Data Structures, and Machine Learning**.
+I am a second-year undergraduate student specializing in **Artificial Intelligence & Machine Learning** with hands-on experience in **Android development,
+Web development, Backend systems, Data Structures, and Machine Learning**.
+
+I am passionate about building intelligent systems and solving real-world problems. I focus on strengthening my technical foundation through practical projects,
+continuous learning, and working with modern tools and technologies in AI and software development.
 
 Instead of learning skills in isolation, I focus on:
 - 🔹 Combining **DSA + Backend + ML + Frontend**

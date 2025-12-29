@@ -20,16 +20,11 @@
 
 ## 🚀 Who Am I?
 
-I am a second-year undergraduate student specializing in **Artificial Intelligence & Machine Learning** with hands-on experience in **Android development,
-Web development, Backend systems, Data Structures, and Machine Learning**.
+I am a second-year undergraduate student specializing in **Artificial Intelligence & Machine Learning**  
+with hands-on experience in **Android, Web, Backend, Data Structures, and Machine Learning**.
 
-I am passionate about building intelligent systems and solving real-world problems. I focus on strengthening my technical foundation through practical projects,
-continuous learning, and working with modern tools and technologies in AI and software development.
-
-Instead of learning skills in isolation, I focus on:
-- 🔹 Combining **DSA + Backend + ML + Frontend**
-- 🔹 Solving **real-world problems**
-- 🔹 Building **scalable, end-to-end products**
+I enjoy building intelligent systems and solving real-world problems by combining  
+**code, data, and system design** into scalable products.
 
 ---
 
@@ -63,7 +58,26 @@ Instead of learning skills in isolation, I focus on:
 
 ## 🏗️ How I Build Products
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chetangupta&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetangupta&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Projects_Built-15+-36BCF7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ML_Models-10+-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DSA_Problems-300+-FF9800?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chetangupta&style=for-the-badge&color=36BCF7"/>
+</p>
+
+---
+
+> 💡 I focus on building **scalable, measurable, and impact-driven software products**.
+
+
 ```text
-Idea → UI (Android/Web) → Backend APIs → Database → ML Intelligence → Scale
 
 

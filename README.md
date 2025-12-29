@@ -58,36 +58,25 @@ I enjoy building intelligent systems and solving real-world problems by combinin
 
 ## 🏗️ How I Build Products
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chetangupta&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetangupta&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Projects_Built-15+-36BCF7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ML_Models-10+-00C853?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DSA_Problems-300+-FF9800?style=for-the-badge"/>
+  <!-- Project -->
+  <a href="https://github.com/Chetan2025/Train-Tracking-Project" target="_blank">
+    <img src="https://img.shields.io/badge/Project-Train--Tracking--System-36BCF7?style=for-the-badge"/>
+  </a>
+
+  <!-- GFG -->
+  <a href="https://www.geeksforgeeks.org/profile/chetangupta2025" target="_blank">
+    <img src="https://img.shields.io/badge/DSA-GeeksforGeeks-FF9800?style=for-the-badge"/>
+  </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chetangupta&style=for-the-badge&color=36BCF7"/>
 </p>
-## 📊 GitHub Contributions & Activity
 
-<p align="center">
-  <!-- Contribution Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=chetangupta&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-</p>
 
-<p align="center">
-  <!-- Contribution Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=chetangupta&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chetangupta&theme=tokyo-night&hide_border=true"/>
-</p>
 
 ---
 

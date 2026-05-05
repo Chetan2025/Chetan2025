@@ -21,10 +21,14 @@
 ## 🚀 Who Am I?
 
 Hello, I am currently in my 2nd year pursuing CSE (AIML) from GHRCE Nagpur. My focus is on AI/ML and software development, and I aim to grow as an AI Engineer. I want to contribute my knowledge to an organization while continuously learning and gaining experience.
+
 I believe in myself and know that I can perform at my best in any situation.
+
 Portfolio : https://protfolio-pi-pied.vercel.app/
 If you visit my portfolio, I kindly request you to look at my projects, as they reflect my knowledge and skills.
+
 I do not have any professional experience yet, but I am actively searching for opportunities and trying my best to contribute to real-world projects.
+
 ---
 
 ## 🧠 Skill Stack (End-to-End)

@@ -64,7 +64,11 @@ I do not have any professional experience yet, but I am actively searching for o
 
 
 <p align="center">
+  
   <!-- Project -->
+  <a href="https://github.com/Chetan2025/Create-your-own-Chatbot" target="_blank">
+    <img src="https://img.shields.io/badge/Project-Own%20Chatbot%20using%20RAG-blue?style=for-the-badge&logo=github" />
+  </a>
   <a href="https://github.com/Chetan2025/Train-Tracking-Project" target="_blank">
     <img src="https://img.shields.io/badge/Project-Train--Tracking--System-36BCF7?style=for-the-badge"/>
   </a>
@@ -73,11 +77,17 @@ I do not have any professional experience yet, but I am actively searching for o
   <a href="https://www.geeksforgeeks.org/profile/chetangupta2025" target="_blank">
     <img src="https://img.shields.io/badge/DSA-GeeksforGeeks-FF9800?style=for-the-badge"/>
   </a>
+  
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chetangupta&style=for-the-badge&color=36BCF7"/>
 </p>
+
+### Main Project: GHRCE NoteLab App
+
+Currently deployed and actively used by students.
+Due to security reasons, the source code is private.
+Demo (videos/images) is available in my portfolio.
 
 
 

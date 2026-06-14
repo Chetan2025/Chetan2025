@@ -1,101 +1,212 @@
-<h1 align="center">
-  Hi, I'm <span style="color:#36BCF7;">Chetan Gupta</span>
-  <img src="https://media.giphy.com/media/hvRJCLzz8CztK/giphy.gif" width="28"/>
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Product-Oriented+Software+Engineer;Android+%7C+Web+%7C+Backend+%7C+Machine+Learning;Building+End-to-End+Real-World+Products;Code+%2B+Data+%2B+Systems" />
-</p>
+<!-- Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3C3489,50:534AB7,100:36BCF7&height=200&section=header&text=Chetan%20Gupta&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Product-Oriented%20Software%20Engineer&descAlignY=58&descColor=AFA9EC&animation=fadeIn"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/chetan-gupta-1608a8344">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:chetan.gupta.aiml@ghrce.raisoni.net">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
+<!-- Greeting -->
+<h3>
+  <img src="https://media.giphy.com/media/hvRJCLzz8CztK/giphy.gif" width="26"/>
+  &nbsp;Hey there! Welcome to my GitHub
+</h3>
+
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=534AB7&center=true&vCenter=true&width=700&lines=Android+%7C+Web+%7C+Backend+%7C+Machine+Learning;Building+End-to-End+Real-World+Products;CSE+%28AIML%29+%40+GHRCE+Nagpur;Code+%2B+Data+%2B+Systems+%3D+Impact" />
+
+<br/>
+
+<!-- Badges -->
+<a href="https://www.linkedin.com/in/chetan-gupta-1608a8344">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:chetan.gupta.aiml@ghrce.raisoni.net">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://chetanportfolio-tau.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-534AB7?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Chetan2025&style=for-the-badge&color=534AB7&label=PROFILE+VIEWS"/>
+
+</div>
 
 ---
 
-## 🚀 Who Am I?
+## 🧑‍💻 Who Am I?
 
-Hello, I am currently in my 2nd year pursuing CSE (AIML) from GHRCE Nagpur. My focus is on AI/ML and software development, and I aim to grow as an AI Engineer. I want to contribute my knowledge to an organization while continuously learning and gaining experience.
+```kotlin
+data class Developer(
+    val name: String       = "Chetan Gupta",
+    val degree: String     = "CSE (AIML) — 2nd Year @ GHRCE Nagpur",
+    val focus: List<String> = listOf("Software Dev", "AI/ML", "Backend", "Web"),
+    val goal: String       = "AI Engineer building real-world impactful products",
+    val belief: String     = "I can perform at my best in any situation 💪"
+)
+```
 
-I believe in myself and know that I can perform at my best in any situation.
-
-Portfolio : https://protfolio-pi-pied.vercel.app/
-If you visit my portfolio, I kindly request you to look at my projects, as they reflect my knowledge and skills.
-
-I do not have any professional experience yet, but I am actively searching for opportunities and trying my best to contribute to real-world projects.
+> 🎯 I focus on building **complete, deployable products** — not just code snippets.
+> My projects are live, used by real users, and reflect my actual skill level.
+> 📂 **[Visit my Portfolio →](https://chetanportfolio-tau.vercel.app/)** to see them in action.
 
 ---
 
-## 🧠 Skill Stack (End-to-End)
+## 🛠️ Skill Stack
 
 ### 📱 Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase" />
 </p>
+
+- Jetpack Components (RecyclerView, ViewModel, LiveData)
+- Firebase Auth, Firestore, Storage
+- REST APIs, Retrofit, MVVM Architecture
 
 ### 🌐 Web & Backend
 <p>
   <img src="https://skillicons.dev/icons?i=django,html,css,js,mysql,firebase" />
 </p>
 
-### 🤖 Machine Learning
+- Django REST Framework, MySQL, Session Auth
+- Responsive UI with HTML/CSS/JS
+
+### 🤖 Machine Learning & AI
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://img.shields.io/badge/NumPy-Data-blue?style=flat-square&logo=numpy"/>
-  <img src="https://img.shields.io/badge/Pandas-Analysis-purple?style=flat-square&logo=pandas"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-Modeling-orange?style=flat-square&logo=scikit-learn"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-LangChain-36BCF7?style=flat-square"/>
 </p>
 
-### 🧮 Data Structures & Problem Solving
+- Supervised & Unsupervised Learning
+- RAG (Retrieval-Augmented Generation) Pipelines
+- Data Analysis & Feature Engineering
+
+### 🧮 DSA & Problem Solving
 <p>
-  <img src="https://img.shields.io/badge/DSA-Problem_Solving-success?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Algorithms-Logic_Design-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Active-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DSA-Problem_Solving-534AB7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Algorithms-Logic_Design-3C3489?style=flat-square"/>
 </p>
 
 ---
 
-## 🏗️ How I Build Products
+## 🏗️ Featured Projects
 
+### 🔒 GHRCE NoteLab — Android App *(Private)*
+> Currently **deployed & actively used by students** at GHRCE Nagpur.
 
+- 📱 Built with **Kotlin + Firebase + MVVM**
+- 🔐 Source code private for security — demo available on portfolio
+- ✅ Features: Notes sharing, PDF viewer, OTP Auth, Upload system, Admin panel
 
-<p align="center">
-  
-  <!-- Project -->
-  <a href="https://github.com/Chetan2025/Create-your-own-Chatbot" target="_blank">
-    <img src="https://img.shields.io/badge/Project-Own%20Chatbot%20using%20RAG-blue?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/Chetan2025/Train-Tracking-Project" target="_blank">
-    <img src="https://img.shields.io/badge/Project-Train--Tracking--System-36BCF7?style=for-the-badge"/>
-  </a>
-
-  <!-- GFG -->
-  <a href="https://www.geeksforgeeks.org/profile/chetangupta2025" target="_blank">
-    <img src="https://img.shields.io/badge/DSA-GeeksforGeeks-FF9800?style=for-the-badge"/>
-  </a>
-  
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chetangupta&style=for-the-badge&color=36BCF7"/>
-</p>
-
-### Main Project: GHRCE NoteLab App
-
-Currently deployed and actively used by students.
-Due to security reasons, the source code is private.
-Demo (videos/images) is available in my portfolio.
-
-
+<a href="https://chetanportfolio-tau.vercel.app/">
+  <img src="https://img.shields.io/badge/View%20Demo-Portfolio-534AB7?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 ---
 
-> 💡 I focus on building **scalable, measurable, and impact-driven software products**.
+### 🤖 RAG Chatbot — Own Your Chatbot
+> Build a custom chatbot from your own documents using RAG pipeline.
 
+<a href="https://github.com/Chetan2025/Create-your-own-Chatbot">
+  <img src="https://img.shields.io/badge/GitHub-RAG%20Chatbot-3C3489?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-```text
+- Python + LangChain + Vector DB
+- Retrieval-Augmented Generation on custom data
+- Plug-and-play chatbot from any PDF/document
+
+---
+
+### 🚆 Train Tracking System
+> Real-time train tracking web project.
+
+<a href="https://github.com/Chetan2025/Train-Tracking-Project">
+  <img src="https://img.shields.io/badge/GitHub-Train%20Tracker-36BCF7?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+- Django backend + MySQL
+- Live status updates & route visualization
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Chetan2025&show_icons=true&theme=tokyonight&border_color=534AB7&title_color=AFA9EC&icon_color=36BCF7&text_color=ffffff&bg_color=0D1117"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chetan2025&theme=tokyonight&border=534AB7&ring=534AB7&fire=36BCF7&currStreakLabel=AFA9EC"/>
+
+<br/><br/>
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan2025&layout=compact&theme=tokyonight&border_color=534AB7&title_color=AFA9EC&text_color=ffffff&bg_color=0D1117"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Chetan2025&theme=discord&column=6&margin-w=10&margin-h=10"/>
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chetan2025&bg_color=0D1117&color=AFA9EC&line=534AB7&point=36BCF7&area=true&hide_border=false&border_color=534AB7"/>
+</div>
+
+---
+
+## 🎯 DSA Progress
+
+<div align="center">
+
+<a href="https://www.geeksforgeeks.org/profile/chetangupta2025">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</div>
+
+| Platform | Status |
+|----------|--------|
+| GeeksForGeeks | 🟢 Active — Solving DSA problems regularly |
+| Focus Areas | Arrays, Strings, Trees, DP, Graphs |
+| Approach | Pattern recognition over memorization |
+
+---
+
+## 🌱 Currently Learning
+
+```
+ ✅ GEN AI
+ ✅ FastApi APIs
+ 🔄 Deep Learning (Neural Networks)
+ 🔄 System Design Basics
+ 📌 Open Source Contributions
+```
+
+---
+
+<div align="center">
+
+### 💬 Quote I Live By
+
+> *"I believe in myself and know that I can perform at my best in any situation."*
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:534AB7,100:3C3489&height=120&section=footer"/>
+
+</div>
+
 
 

@@ -113,7 +113,7 @@ data class Developer(
 ### 🤖 RAG Chatbot — Own Your Chatbot
 > Build a custom chatbot from your own documents using RAG pipeline.
 
-<a href="https://github.com/Chetan2025/Create-your-own-Chatbot">
+<a href="https://github.com/Chetan2025/Full-Stack-Web-app-Using-AI-RAG-pipeling.git">
   <img src="https://img.shields.io/badge/GitHub-RAG%20Chatbot-3C3489?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 

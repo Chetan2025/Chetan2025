@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://chetanportfolio-tau.vercel.app/" target="_blank">
+<a href="https://chetan-gupta-portfolio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Visit-534AB7?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -40,7 +40,7 @@
 ```kotlin
 data class Developer(
     val name: String       = "Chetan Gupta",
-    val degree: String     = "CSE (AIML) — 2nd Year @ GHRCE Nagpur",
+    val degree: String     = "CSE (AIML) — 3rd Year @ GHRCE Nagpur",
     val focus: List<String> = listOf("Software Dev", "AI/ML", "Backend", "Web"),
     val goal: String       = "AI Engineer building real-world impactful products",
     val belief: String     = "I can perform at my best in any situation 💪"
@@ -49,7 +49,7 @@ data class Developer(
 
 > 🎯 I focus on building **complete, deployable products** — not just code snippets.
 > My projects are live, used by real users, and reflect my actual skill level.
-> 📂 **[Visit my Portfolio →](https://chetanportfolio-tau.vercel.app/)** to see them in action.
+> 📂 **[Visit my Portfolio →](https://chetan-gupta-portfolio.vercel.app/)** to see them in action.
 
 ---
 
@@ -97,14 +97,16 @@ data class Developer(
 
 ## 🏗️ Featured Projects
 
-### 🔒 GHRCE NoteLab — Android App *(Private)*
+### 🔒 GHRCE NoteLab — Android App *(Live)*
 > Currently **deployed & actively used by students** at GHRCE Nagpur.
+
+🌐 **Live Download:** https://notelabghrceappdownload.vercel.app/
 
 - 📱 Built with **Kotlin + Firebase + MVVM**
 - 🔐 Source code private for security — demo available on portfolio
 - ✅ Features: Notes sharing, PDF viewer, OTP Auth, Upload system, Admin panel
 
-<a href="https://chetanportfolio-tau.vercel.app/">
+<a href="https://chetan-gupta-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/View%20Demo-Portfolio-534AB7?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 

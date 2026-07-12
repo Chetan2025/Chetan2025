@@ -60,17 +60,18 @@ data class Developer(
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase" />
 </p>
 
-- Jetpack Components (RecyclerView, ViewModel, LiveData)
+- Kotlin + XML 
+- Jetpack Components (RecyclerView, ViewModel, LiveData) (basic)
 - Firebase Auth, Firestore, Storage
 - REST APIs, Retrofit, MVVM Architecture
 
 ### 🌐 Web & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=django,html,css,js,mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=django,html,mysql,postgresql,firebase" />
 </p>
 
 - Django REST Framework, MySQL, Session Auth
-- Responsive UI with HTML/CSS/JS
+- Responsive UI
 
 ### 🤖 Machine Learning & AI
 <p>

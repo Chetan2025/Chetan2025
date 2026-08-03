@@ -61,7 +61,7 @@ data class Developer(
 </p>
 
 - Kotlin + XML 
-- Jetpack Components (RecyclerView, ViewModel, LiveData) (basic)
+- (RecyclerView, ViewModel, LiveData, Room Database, Repository) (basic)
 - Firebase Auth, Firestore, Storage
 - REST APIs, Retrofit, MVVM Architecture
 
@@ -70,7 +70,8 @@ data class Developer(
   <img src="https://skillicons.dev/icons?i=django,html,mysql,postgresql,firebase" />
 </p>
 
-- Django REST Framework, MySQL, Session Auth
+- Django REST Framework (basic)
+- FaseApi (strong) , MySQL, Session Auth
 - Responsive UI
 
 ### 🤖 Machine Learning & AI
@@ -84,8 +85,10 @@ data class Developer(
 </p>
 
 - Supervised & Unsupervised Learning
+- Deep learning, LLM, API's, Hugging Face
 - RAG (Retrieval-Augmented Generation) Pipelines
 - Data Analysis & Feature Engineering
+- MCP Server
 
 ### 🧮 DSA & Problem Solving
 <p>
@@ -100,6 +103,10 @@ data class Developer(
 
 ### 🔒 GHRCE NoteLab — Android App *(Live)*
 > Currently **deployed & actively used by students** at GHRCE Nagpur.
+
+<a href="https://github.com/Chetan2025/GHRCE-Notelab-App.git">
+  <img src="https://img.shields.io/badge/GitHub-Notelab-3C3489?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 🌐 **Live Download:** https://notelabghrceappdownload.vercel.app/
 
@@ -120,6 +127,7 @@ data class Developer(
   <img src="https://img.shields.io/badge/GitHub-RAG%20Chatbot-3C3489?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+- FastApi 
 - Python + LangChain + Vector DB
 - Retrieval-Augmented Generation on custom data
 - Plug-and-play chatbot from any PDF/document
@@ -133,10 +141,12 @@ data class Developer(
   <img src="https://img.shields.io/badge/GitHub-Train%20Tracker-36BCF7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-- Django backend + MySQL
+- FastApi backend + MySQL
 - Live status updates & route visualization
 
 ---
+
+<!--
 
 ## 📊 GitHub Stats
 
@@ -161,7 +171,7 @@ data class Developer(
 <img src="https://github-profile-trophy.vercel.app/?username=Chetan2025&theme=discord&column=6&margin-w=10&margin-h=10&no-frame=true" />
 
 </div>
----
+<!--
 
 ## 📈 Contribution Graph
 
@@ -169,7 +179,9 @@ data class Developer(
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chetan2025&bg_color=0D1117&color=AFA9EC&line=534AB7&point=36BCF7&area=true&hide_border=false&border_color=534AB7"/>
 </div>
 
+-->
 ---
+
 
 ## 🎯 DSA Progress
 

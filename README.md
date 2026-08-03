@@ -23,9 +23,9 @@
   <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://chetan-gupta-portfolio.vercel.app/" target="_blank">
+<!-- <a href="https://chetan-gupta-portfolio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Visit-534AB7?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+</a> -->
 
 <br/><br/>
 
@@ -49,8 +49,8 @@ data class Developer(
 
 > 🎯 I focus on building **complete, deployable products** — not just code snippets.
 > My projects are live, used by real users, and reflect my actual skill level.
-> 📂 **[Visit my Portfolio →](https://chetan-gupta-portfolio.vercel.app/)** to see them in action.
-
+> 
+<!-- 📂 **[Visit my Portfolio →](https://chetan-gupta-portfolio.vercel.app/)** to see them in action. -->
 ---
 
 ## 🛠️ Skill Stack
@@ -107,9 +107,9 @@ data class Developer(
 - 🔐 Source code private for security — demo available on portfolio
 - ✅ Features: Notes sharing, PDF viewer, OTP Auth, Upload system, Admin panel
 
-<a href="https://chetan-gupta-portfolio.vercel.app/">
+<!--<a href="https://chetan-gupta-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/View%20Demo-Portfolio-534AB7?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+</a> -->
 
 ---
 

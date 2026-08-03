@@ -142,12 +142,13 @@ data class Developer(
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Chetan2025&show_icons=true&theme=tokyonight&border_color=534AB7&title_color=AFA9EC&icon_color=36BCF7&text_color=ffffff&bg_color=0D1117"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chetan2025&theme=tokyonight&border=534AB7&ring=534AB7&fire=36BCF7&currStreakLabel=AFA9EC"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Chetan2025&show_icons=true&theme=tokyonight&border_color=534AB7&title_color=AFA9EC&icon_color=36BCF7&text_color=FFFFFF&bg_color=0D1117" />
 
-<br/><br/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Chetan2025&theme=tokyonight&border=534AB7&ring=534AB7&fire=36BCF7&currStreakLabel=AFA9EC" />
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan2025&layout=compact&theme=tokyonight&border_color=534AB7&title_color=AFA9EC&text_color=ffffff&bg_color=0D1117"/>
+<br><br>
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan2025&layout=compact&theme=tokyonight&border_color=534AB7&title_color=AFA9EC&text_color=FFFFFF&bg_color=0D1117" />
 
 </div>
 
@@ -156,9 +157,10 @@ data class Developer(
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chetan2025&theme=discord&column=6&margin-w=10&margin-h=10"/>
-</div>
 
+<img src="https://github-profile-trophy.vercel.app/?username=Chetan2025&theme=discord&column=6&margin-w=10&margin-h=10&no-frame=true" />
+
+</div>
 ---
 
 ## 📈 Contribution Graph
